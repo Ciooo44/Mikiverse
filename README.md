@@ -1,78 +1,71 @@
-Miki is a playful VS Code extension that keeps you company while you code. Observing Everything 
+# mikiverse README
 
-It’s designed to make programming more fun, motivating, and a little less lonely.
+This is the README for your extension "mikiverse". After writing up a brief description, we recommend including the following sections.
 
-Miki reacts to your coding actions, gives small encouragements, and turns your development flow into a light, game-like experience.
+## Features
 
-✨ Features
+Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-🐻 Cute Miki character
+For example if there is an image subfolder under your extension project workspace:
 
-💬 Encouraging messages while coding
+\!\[feature X\]\(images/feature-x.png\)
 
-⚡ VS Code command interactions
+> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-🧠 Extendable architecture (sounds, animations, AI reactions)
+## Requirements
 
-🧩 Rainbow Fart / Waifu-style experience
+If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-🚀 Installation (Developer Mode)
-git clone https://github.com/Ciooo44/mikiverse.git
-cd miki-rainbow-fart
-npm install
+## Extension Settings
 
+Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
-In VS Code:
+For example:
 
-Press F5 to open the Extension Development Host
+This extension contributes the following settings:
 
-Open Command Palette (Cmd / Ctrl + Shift + P)
+* `myExtension.enable`: Enable/disable this extension.
+* `myExtension.thing`: Set to `blah` to do something.
 
-Run: Miki: Motivate Me
+## Known Issues
 
-🧪 First Try
+Calling out known issues can help limit users opening duplicate issues against your extension.
 
-When triggered, Miki will respond with something like:
+## Release Notes
 
-“Miki: Your code looks adorable 🧡”
+Users appreciate release notes as you update your extension.
 
-This is just the beginning.
+### 1.0.0
 
-🛠️ Roadmap
+Initial release of ...
 
- Keyword-based code reactions
+### 1.0.1
 
- Miki voice pack support
+Fixed issue #.
 
- Animated avatar via WebView
+### 1.1.0
 
- AI-generated reactions
+Added features X, Y, and Z.
 
- VS Code Marketplace release
+---
 
-🎨 Character
+## Following extension guidelines
 
-Miki is:
+Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
 
-Orange
+* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
-Cute
+## Working with Markdown
 
-Slightly mischievous
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-A friendly companion while you code
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
+* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
+* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-📦 Inspiration
+## For more information
 
-This project is inspired by:
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-Rainbow Fart / Waifu VS Code extensions
-
-Gamified developer experience
-
-Character-driven AI assistants
-
-⚠️ Disclaimer
-
-This project is experimental and for fun.
-Contributions, ideas, and improvements are always welcome.
+**Enjoy!**
