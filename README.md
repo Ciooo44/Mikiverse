@@ -17,7 +17,7 @@ Miki reacts to your coding actions, gives small encouragements, and turns your d
 🧩 Rainbow Fart / Waifu-style experience
 
 🚀 Installation (Developer Mode)
-git clone https://github.com/Ciooo44/miki-rainbow-fart.git
+git clone https://github.com/Ciooo44/mikiverse.git
 cd miki-rainbow-fart
 npm install
 
